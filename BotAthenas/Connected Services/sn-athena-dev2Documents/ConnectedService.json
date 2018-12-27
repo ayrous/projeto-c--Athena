@@ -1,0 +1,7 @@
+﻿{
+  "ProviderId": "Microsoft.Azure.Documents",
+  "Version": "1.0.0",
+  "GettingStartedDocument": {
+    "Uri": "https://docs.microsoft.com/en-us/azure/documentdb"
+  }
+}
